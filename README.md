@@ -1,8 +1,18 @@
 # NTUA-Poster
  LaTeX class for scientific posters with affiliation to the National Technological University of Athens
 
-## Examples
+## Class options
 
+| Paper size |
+:------------:
+A0
+A1
+A2
+A3
+A4
+A5
+
+## Examples
 
 |     Portrait             | Landscape |
 :-------------------------:|:---------:|
