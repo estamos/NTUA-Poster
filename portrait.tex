@@ -1,0 +1,97 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Class options                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Orientation:                         %
+% portrait (default), landscape        %
+%                                      %
+% Paper size:                          %
+% a0paper (default), a1paper, a2paper, %
+% a3paper, a4paper, a5paper, a6paper   %
+%                                      %
+% Language:                            %
+% english (default), norsk             %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass{ntuaposter}
+
+\usepackage{lipsum}                                % Dummy text
+\usepackage[figwidth = 0.7\linewidth]{todonotes}  % Dummy image (and more!)
+\usepackage[absolute, overlay]{textpos}            % Figure placement
+\setlength{\TPHorizModule}{\paperwidth}
+\setlength{\TPVertModule}{\paperheight}
+
+
+\title{ECE441 Coding Project}
+\author
+{%
+    Stamos Evangelos\inst{}
+    \and
+    LastName1 FirstName1\inst{}
+    \and
+    LastName2 FirstName2\inst{}
+}
+%% Optional:
+\institute
+{
+    \inst{} School of Electrical and Computer Engineering
+}
+% Or:
+%\institute{Contact information}
+
+
+%% Remove footline:
+%\setbeamertemplate{footline}{}
+
+
+\begin{document}
+\begin{frame}
+\begin{columns}[onlytextwidth]
+
+
+\begin{column}{0.5\textwidth - 1.5cm}
+    \begin{block}{Introduction}
+        This \structure{paper} presents in an one page report the coding project of course ECE441 Inter-network Protocol Design | UTH. In this project we had to create a web server and respective web client applications that use SCTP and DCCP for the exchange.
+    \end{block}
+
+    \begin{exampleblock}{Project Idea}
+        Sure, use an \textbf{exampleblock}!
+    \end{exampleblock}
+
+    \begin{alertblock}{Coding}
+        Use an \alert{\href{https://github.com/estamos/SCTP-DCCP-Server-Client}{Github}}!
+    \end{alertblock}
+
+    \begin{block}{Training Algorithm}
+        \lipsum[1]
+    \end{block}
+
+    \begin{block}{Final values of parameters}
+        \lipsum[teststest]
+        \missingfigure{Striking imagery relevant to the research}
+        \unskip
+    \end{block}
+\end{column}
+
+
+\begin{column}{0.5\textwidth - 1.5cm}
+    \begin{block}{Performance Evaluation}
+        \lipsum[4]
+    \end{block}
+
+    \begin{block}{Acknowledgements}
+        \lipsum[5]
+    \end{block}
+
+    \begin{block}{References}
+        \lipsum[6]
+    \end{block}
+
+    \begin{block}{Contact information}
+        \lipsum[test]
+    \end{block}
+\end{column}
+
+
+\end{columns}
+
+\end{frame}
+\end{document}
