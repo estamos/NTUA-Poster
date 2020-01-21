@@ -1,33 +1,34 @@
-# NTUA-Poster
- LaTeX class for scientific posters with affiliation to the National Technological University of Athens
+---
+panflute-filters: [div-table]
+panflute-path: 'panflute/docs/source'
+---
 
-## Class options
+::::: {.divtable}
+:::: {.tcaption}
+a caption here (optional), only the first paragraph is used.
+::::
+:::: {.thead}
+[Header 1]{width=0.4 align=center}
+[Header 2]{width=0.6 align=default}
+::::
+:::: {.trow}
+::: {.tcell}
 
-<table>
-<tr><th> Paper Size</th><th> Orientation </th></tr>
-<tr><td>
+1. any
+2. normal markdown
+3. can go in a cell
 
-| A# | Dim 1 | Dim 2 |
-|:--:|:-----:|:-----:|
-|A0| 841 | 1189 |
-|A1| 594 | 841  |
-|A2| 420 | 594  |
-|A3| 286 | 420  |
-|A4| 210 | 297  |
-|A5| 148 | 210  |
-|A6| 105 | 148  |
+:::
+::: {.tcell}
+![](https://pixabay.com/get/e832b60e2cf7043ed1584d05fb0938c9bd22ffd41cb2144894f9c57aae/bird-1771435_1280.png?attachment){width=50%}
 
-</td><td>
+some text
+:::
+::::
+:::: {.trow bypara=true}
+If bypara=true
 
-|Portrait|Landscape|
-|:------:|:-------:|
-| portait.tex | landscape.tex |
-
-</td></tr> 
-</table>
-
-## Examples
-
-|     Portrait             | Landscape |
-:-------------------------:|:---------:|
-![Portait](https://raw.githubusercontent.com/estamos/NTUA-Poster/master/examples/NTUA_Poster_portrait_example-1.png)  | ![Landscape](https://raw.githubusercontent.com/estamos/NTUA-Poster/master/examples/NTUA_Poster_landscape_example-1%202.png)
+Then each paragraph will be treated as a separate column
+::::
+any text outside a div will be ignored
+:::::
