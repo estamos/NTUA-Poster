@@ -4,9 +4,9 @@
 ## Class options
 
 | Paper size |  and  | Orientation |
-:------------:       :-------------:
+:-----------:|       :------------:|
 A0                        Portait
-A1                       Landscape
+A1
 A2
 A3
 A4
