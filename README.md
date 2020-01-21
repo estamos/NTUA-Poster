@@ -18,11 +18,13 @@
 |A6| 105 | 148  |
 
 </td><td>
-|a|b|
-|:------:|:-------:|
-|Portrait|Landscape|
 
-</td></tr> </table>
+|Portrait|Landscape|
+|:------:|:-------:|
+| portait.tex | landscape.tex |
+
+</td></tr> 
+</table>
 
 ## Examples
 
