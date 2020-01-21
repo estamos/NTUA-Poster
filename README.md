@@ -3,10 +3,6 @@
 
 ## Examples
 
-<a href="url"><img src="https://raw.githubusercontent.com/estamos/NTUA-Poster/master/examples/NTUA_Poster_portrait_example-1.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/estamos/NTUA-Poster/master/examples/NTUA_Poster_portrait_example-1.png" align="center" height="100" width="100" ></a>
 
-<a href="url"><img src="https://raw.githubusercontent.com/estamos/NTUA-Poster/master/examples/NTUA_Poster_landscape_example-1%202.png" align="left" height="48" width="48" ></a>
-
-![Portait](https://raw.githubusercontent.com/estamos/NTUA-Poster/master/examples/NTUA_Poster_portrait_example-1.png = 250x250)
-
-![Portait](https://raw.githubusercontent.com/estamos/NTUA-Poster/master/examples/NTUA_Poster_landscape_example-1%202.png = 250x250)
+<a href="url"><img src="https://raw.githubusercontent.com/estamos/NTUA-Poster/master/examples/NTUA_Poster_landscape_example-1%202.png" align="center" height="48" width="48" ></a>
