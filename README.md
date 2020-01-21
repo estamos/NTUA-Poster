@@ -3,14 +3,19 @@
 
 ## Class options
 
-| Paper size |  and  | Orientation |
-:-----------:|       :------------:|
-A0                        Portait
+| Paper size |
+:-----------:|
+A0
 A1
 A2
 A3
 A4
 A5
+
+| Orientation |
+:------------:|
+Portrait
+Landscape
 
 ## Examples
 
