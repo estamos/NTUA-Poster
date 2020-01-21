@@ -19,6 +19,7 @@
 
 </td><td>
 
+|:------:|:-------:|
 |Portrait|Landscape|
 
 </td></tr> </table>
