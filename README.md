@@ -3,19 +3,25 @@
 
 ## Class options
 
-| Paper size |
-:-----------:|
-A0
-A1
-A2
-A3
-A4
-A5
+<table>
+<tr><th> Paper Size</th><th> Orientation </th></tr>
+<tr><td>
 
-| Orientation |
-:------------:|
-Portrait
-Landscape
+| A# | Dim 1 | Dim 2 |
+|:--:|:-----:|:-----:|
+|A0| 841 | 1189 |
+|A1| 594 | 841  |
+|A2| 420 | 594  |
+|A3| 286 | 420  |
+|A4| 210 | 297  |
+|A5| 148 | 210  |
+|A6| 105 | 148  |
+
+</td><td>
+
+|Portrait|Landscape|
+
+</td></tr> </table>
 
 ## Examples
 
