@@ -18,10 +18,10 @@
     <img alt="Donate" src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg" />
   </a>
   <a href="https://raw.githubusercontent.com/estamos/NTUA-Poster/master/examples/NTUA_Poster_portrait_example.pdf">
-    <img alt="Example PDF" src="https://img.shields.io/badge/poster-portrait-pdf-red.svg" />
+    <img alt="Example PDF" src="https://img.shields.io/badge/Poster Portrait-pdf-red.svg" />
   </a>
   <a href="https://raw.githubusercontent.com/estamos/NTUA-Poster/master/examples/NTUA_Poster_landscape_example.pdf">
-    <img alt="Example PDF" src="https://img.shields.io/badge/poster-landscape-pdf-red.svg" />
+    <img alt="Example PDF" src="https://img.shields.io/badge/Poster Landscape-pdf-red.svg" />
   </a>
 </div>
 
