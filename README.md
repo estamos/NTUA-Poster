@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/eestamos/NTUA-ECE-Thesis-Template" title="NTUA Poster LaTeX Template">
+  <a href="https://github.com/estamos/NTUA-Poster" title="NTUA Poster LaTeX Template">
     <img alt="NTUA Poster LaTeX Template" src="https://www.ece.ntua.gr/themes/ecetheme/assets/img/pyrforos.svg" width="200px" height="200px" />
   </a>
   <br />
