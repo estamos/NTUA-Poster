@@ -1,5 +1,29 @@
+<h1 align="center">
+  <a href="https://github.com/eestamos/NTUA-ECE-Thesis-Template" title="NTUA Poster LaTeX Template">
+    <img alt="NTUA Poster LaTeX Template" src="https://www.ece.ntua.gr/themes/ecetheme/assets/img/pyrforos.svg" width="200px" height="200px" />
+  </a>
+  <br />
+  Πρότυπο Συγγραφής Αφίσας Παρουσίασης | ΕΜΠ
+</h1>
+
+<p align="center">
+  LaTeX template for poster presentation
+</p>
+
+<div align="center">
+  <a href="https://www.paypal.me/evangelosstamos">
+    <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
+  </a>
+  <a href="https://www.buymeacoffee.com/estamos">
+    <img alt="Donate" src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg" />
+  </a>
+  <a href="https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/master/examples/NTUA_Thesis_Example.pdf">
+    <img alt="Example PDF" src="https://img.shields.io/badge/thesis-pdf-red.svg" />
+  </a>
+</div>
+
 # NTUA-Poster
- LaTeX class for scientific posters with affiliation to the National Technological University of Athens
+ LaTeX Poaster Template for National Technological University of Athens
 
 ## Class options
 
