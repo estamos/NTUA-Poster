@@ -26,7 +26,7 @@
 </div>
 
 # NTUA-Poster
- LaTeX Poster Template for National Technological University of Athens
+ LaTeX Poster Template for National Technical University of Athens
 
 ## Class options
 
